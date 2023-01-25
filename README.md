@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LuisMuz
 - 👀 I’m interested in all computer science areas.
-- 🌱 I’m currently learning C, C++ and Java.
+- 🌱 I’m currently learning C and C++.
 - 💞️ I’m looking to collaborate on every project related to machine learning, VR, something challenging.
